@@ -1,5 +1,7 @@
 # prompt-brief
 
+[![Installs](https://skills.sh/b/bragai/prompt-brief)](https://skills.sh/bragai/prompt-brief)
+
 An agent skill that makes your coding agent write the brief before it
 writes the code.
 
