@@ -107,11 +107,9 @@ works with what exists rather than inventing conventions.
 SKILL.md                              the skill
 references/mapping-prompt.md          the subagent prompt template
 references/exemplar-billing-page.md   one complete brief, invented product
-LICENSE                               MPL-2.0
+LICENSE                               MIT
 ```
 
 ## License
 
-Mozilla Public License 2.0. Use it anywhere, including in closed products;
-if you change these files, the changed files must be shared under the same
-license. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).

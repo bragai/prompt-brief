@@ -1,7 +1,7 @@
 ---
 name: prompt-brief
 description: "How to write a brief — a prompt the user pastes back as the task — for a feature, a surface or a rewrite in any codebase. Use when the user asks for \"a brief\", \"a prompt brief\", \"write me the prompt for X\", or \"the same prompting approach\": map the code with read-only subagents first, then write the brief in a fixed shape with every claim traceable to the map. Do not build; deliver the brief."
-license: MPL-2.0
+license: MIT
 metadata:
   author: bragai
   version: "1.0"
